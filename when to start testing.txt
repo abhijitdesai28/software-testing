@@ -1,0 +1,10 @@
+When to Start Testing?
+An early start to testing reduces the cost and time to rework and produce error-free software that is delivered to the client. However in Software Development Life Cycle (SDLC), testing can be started from the Requirements Gathering phase and continued till the deployment of the software. It also depends on the development model that is being used. For example, in the Waterfall model, formal testing is conducted in the testing phase; but in the incremental model, testing is performed at the end of every increment/iteration and the whole application is tested at the end.
+
+Testing is done in different forms at every phase of SDLC:
+
+●      During the requirement gathering phase, the analysis and verification of requirements are also considered as testing.
+
+●      Reviewing the design in the design phase with the intent to improve the design is also considered as testing.
+
+●      Testing performed by a developer on completion of the code is also categorized as testing.
